@@ -3,7 +3,7 @@
 I'm a dual-certified Data Analyst with a passion for turning data into decisions.
 
 ## 🔧 Tools I Use
-- SQL (Oracle, MySQL)
+- SQL (Oracle Certified, MySQL)
 - Tableau (Certified)
 - Excel
 - Currently learning AWS Cloud Practitioner
